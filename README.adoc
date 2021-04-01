@@ -1,0 +1,5 @@
+= Test Project for Codename One Native Interfaces
+
+This project is a test project that is used in https://www.codenameone.com[Codename One]'s integration tests.
+
+See https://github.com/codenameone/CodenameOne/maven/integration-tests/android-native-interface-test.sh

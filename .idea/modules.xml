@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/androidnativetest.iml" filepath="$PROJECT_DIR$/.idea/androidnativetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/androidnativetest-common.iml" filepath="$PROJECT_DIR$/common/androidnativetest-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase/androidnativetest-javase.iml" filepath="$PROJECT_DIR$/javase/androidnativetest-javase.iml" />
+    </modules>
+  </component>
+</project>
